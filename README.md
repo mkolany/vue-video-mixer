@@ -1,4 +1,4 @@
 # vue-video-mixer
-It's a video mixer done entirely in HTML/javascript +vue. Demo:
+It's a video mixer done entirely in HTML/javascript +vue. [Demo](http://jsfiddle.net/mkolany/0j5g74rx/).
 
-<script async src="//jsfiddle.net/mkolany/0j5g74rx/embed/result/"></script>
+![Screenshot](https://i.imgur.com/wjoBj1R.png)
